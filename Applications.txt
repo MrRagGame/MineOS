@@ -8,9 +8,10 @@
     about="MrRagGame/MineOS/master/MineOS/About/",
     type="Script",
     forceDownload=true,
-    version=3.49,
+    version=0.01,
   },
---[[  {
+--[[
+  {
     name="MineOS/Pictures/Raspberry.pic",
     url="MrRagGame/MineOS/master/MineOS/Wallpapers/Raspberry.pic",
     type="Wallpaper",
