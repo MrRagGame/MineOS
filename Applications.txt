@@ -1191,8 +1191,48 @@
 	type="Application",
 	icon="MrRagGame/MineOS/master/Applications/Robot/Robot.pic",
 	createShortcut="desktop",
-	version=1.1,
+	version=1.11,
 	resources={
+	  {
+        name="Commander.lua",
+        url="MrRagGame/MineOS/master/Applications/Robot/Commander.lua",
+      },
+	  {
+        name="Diamonds.lua",
+        url="MrRagGame/MineOS/master/Applications/Robot/Diamonds.lua",
+      },
+	  {
+        name="Experience.lua",
+        url="MrRagGame/MineOS/master/Applications/Robot/Experience.lua",
+      },
+	  {
+        name="GeoMiner.lua",
+        url="MrRagGame/MineOS/master/Applications/Robot/GeoMiner.lua",
+      },
+	  {
+        name="HorizontalLazer.lua",
+        url="MrRagGame/MineOS/master/Applications/Robot/HorizontalLazer.lua",
+      },
+	  {
+        name="Installer.lua",
+        url="MrRagGame/MineOS/master/Applications/Robot/Installer.lua",
+      },
+	  {
+        name="Laser.lua",
+        url="MrRagGame/MineOS/master/Applications/Robot/Laser.lua",
+      },
+	  {
+        name="Quarry.lua",
+        url="MrRagGame/MineOS/master/Applications/Robot/Quarry.lua",
+      },
+	  {
+        name="robotAPI.lua",
+        url="MrRagGame/MineOS/master/Applications/Robot/robotAPI.lua",
+      },
+	  {
+        name="RobotReciever.lua",
+        url="MrRagGame/MineOS/master/Applications/Robot/RobotReciever.lua",
+      },
 	  {
         name="Robot.pic",
         url="MrRagGame/MineOS/master/Applications/Robot/Robot.pic",

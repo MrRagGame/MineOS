@@ -22,7 +22,7 @@ local doors
 
 if not fs.exists(pathToWhitelist) then
   fs.makeDirectory(fs.path(pathToWhitelist))
-  config.write(pathToWhitelist, "Igor_Timofeev", "owner")
+  config.write(pathToWhitelist, "MrRaggame", "owner")
 end
 
 if not fs.exists(pathToDoors) then
