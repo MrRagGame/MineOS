@@ -16,6 +16,7 @@
     type="Wallpaper",
     version=1.0,
   },
+
   ----------------------------------------------------- Системные иконки --------------------------------------------------------------------------
   {
     name="MineOS/System/OS/Icons/Application.pic",
@@ -183,7 +184,9 @@
     type="Icon",
     version=1.01,
   },
+
   ----------------------------------------------------- Библиотеки --------------------------------------------------------------------------
+
   {
     name="lib/MineOSCore.lua",
     url="MrRagGame/MineOS/master/lib/MineOSCore.lua",
@@ -364,7 +367,9 @@
     type="Library",
     version=1.07,
   },
+
   ----------------------------------------------------- Скрипты и дополнения к ним --------------------------------------------------------------------------
+
   {
     name="init.lua",
     url="MrRagGame/MineOS/master/MineOS/Init.lua",
@@ -422,6 +427,7 @@
     forceDownload=true,
     version=1.00,
   },
+
   ----------------------------------------------------- Приложения --------------------------------------------------------------------------
   {
     name="MineOS/Applications/MineCode IDE",
@@ -519,7 +525,6 @@
       },
     },
   },
- 
   {
     name="MineOS/Applications/Control2",
     url="MrRagGame/MineOS/master/Applications/Control2/Control2.lua",
@@ -692,7 +697,6 @@
       },
     },
   },
-
   {
     name="MineOS/Applications/Calendar",
     url="MrRagGame/MineOS/master/Applications/Calendar/Calendar.lua",
@@ -710,7 +714,6 @@
     createShortcut="desktop",
     version=1.08,
   },
-
   {
     name="MineOS/Applications/RunningString",
     url="MrRagGame/MineOS/master/Applications/RunningString/RunningString.lua",
@@ -773,6 +776,16 @@
     icon="MrRagGame/MineOS/master/Applications/HoloClock/Icon.pic",
     createShortcut="desktop",
     version=1.02,
+  },
+  {
+	name="MineOS/Applications/Finder",
+	url="MrRagGame/MineOS/master/Applications/Finder/Finder.lua",
+	about="MrRagGame/MineOS/master/Applications/Finder/About/",
+	type="Application",
+	icon="MrRagGame/MineOS/master/Applications/Finder/Icon.pic",
+	createShortcut="dock",
+	forceDownload=true,
+	version=1.12,
   },
   {
     name="MineOS/Applications/AppMarket",
