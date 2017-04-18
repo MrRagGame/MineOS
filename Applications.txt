@@ -254,6 +254,19 @@
   ----------------------------------------------------- Библиотеки --------------------------------------------------------------------------
 
   {
+    name="MineOS/System/OS/EFI.lua",
+    url="MrRagGame/MineOS/master/MineOS/EFI.lua",
+    type="Library",
+    forceDownload=true,
+    version=1.0,
+  },
+  {
+    name="lib/archive.lua",
+    url="MrRagGame/MineOS/master/lib/archive.lua",
+    type="Library",
+    version=1.0,
+  },
+  {
     name="lib/MineOSCore.lua",
     url="MrRagGame/MineOS/master/lib/MineOSCore.lua",
     type="Library",
@@ -272,13 +285,6 @@
     type="Library",
     preLoadFile=true,
     version=1.00,
-  },
-  {
-    name="MineOS/System/OS/EFI.lua",
-    url="MrRagGame/MineOS/master/MineOS/EFI.lua",
-    type="Library",
-    forceDownload=true,
-    version=1.0,
   },
   {
     name="lib/ECSAPI.lua",
