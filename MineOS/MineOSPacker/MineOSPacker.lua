@@ -9,8 +9,8 @@ local compressor
 local compressorPath = "/lib/compressor.lua"
 local MineOSPackagePath = "/MineOS.pkg"
 
-local compressorURL = "https://raw.githubusercontent.com/IgorTimofeev/OpenComputers/master/lib/compressor.lua"
-local MineOSPackageURL = "https://raw.githubusercontent.com/IgorTimofeev/OpenComputers/master/MineOS/MineOS.pkg"
+local compressorURL = "https://raw.githubusercontent.com/MrRagGame/MineOS/master/lib/compressor.lua"
+local MineOSPackageURL = "https://raw.githubusercontent.com/MrRagGame/MineOS/master/MineOS/MineOS.pkg"
 
 local packageFileList = {
 	"/boot/",
