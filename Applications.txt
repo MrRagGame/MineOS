@@ -1005,7 +1005,7 @@
     type="Application",
     icon="MrRagGame/MineOS/master/Applications/Photoshop/Icon.pic",
 --    createShortcut="dock",
-    forceDownload=true,
+--    forceDownload=true,
     version=1.04,
     resources={
       {
@@ -1034,6 +1034,7 @@
     createShortcut="desktop",
     version=1.02,
   },
+  --[[
   {
 	name="MineOS/Applications/Finder",
 	url="MrRagGame/MineOS/master/Applications/Finder/Finder.lua",
@@ -1044,6 +1045,7 @@
 	forceDownload=true,
 	version=1.12,
   },
+  ]]
   {
     name="MineOS/Applications/AppMarket",
     url="MrRagGame/MineOS/master/Applications/AppMarket/AppMarket.lua",
