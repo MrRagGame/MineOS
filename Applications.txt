@@ -10,7 +10,7 @@
     forceDownload=true,
     version=3.49,
   },
-  {
+--[[  {
     name="MineOS/Pictures/Raspberry.pic",
     url="MrRagGame/MineOS/master/MineOS/Wallpapers/Raspberry.pic",
     type="Wallpaper",
@@ -34,12 +34,14 @@
     type="Wallpaper",
     version=1.0,
   },
+  ]]
   {
     name="MineOS/Pictures/Ciri.pic",
     url="MrRagGame/MineOS/master/MineOS/Wallpapers/Ciri.pic",
     type="Wallpaper",
     version=1.0,
   },
+  --[[
   {
     name="MineOS/Pictures/AhsokaTanoHiRes.pic",
     url="MrRagGame/MineOS/master/MineOS/Wallpapers/AhsokaTanoHiRes.pic",
@@ -78,6 +80,7 @@
     forceDownload=true,
     version=1.20,
   },
+  ]]
 
   ----------------------------------------------------- Системные иконки --------------------------------------------------------------------------
   {
@@ -489,6 +492,7 @@
     forceDownload=true,
     version=1.00,
   },
+  --[[
   {
     name="MineOS/System/OS/Screensavers/Mandala.lua",
     url="MrRagGame/MineOS/master/MineOS/Screensavers/Mandala.lua",
@@ -503,6 +507,7 @@
     forceDownload=true,
     version=1.00,
   },
+  ]]
   ----------------------------------------------------- Приложения --------------------------------------------------------------------------
   {
     name="MineOS/Applications/MineCode IDE",
@@ -524,6 +529,7 @@
       },
     }
   },
+  --[[
   {
     name="MineOS/Applications/3DTest",
     url="MrRagGame/MineOS/master/Applications/3DTest/3DTest.lua",
@@ -548,6 +554,7 @@
       }
     },
   },
+  ]]
   {
     name="MineOS/Applications/SmartHouse",
     url="MrRagGame/MineOS/master/Applications/SmartHouse/SmartHouse.lua",
@@ -624,6 +631,7 @@
       },
     },
   },
+  --[[
   {
     name="MineOS/Applications/VK",
     url="MrRagGame/MineOS/master/Applications/VK/VK.lua",
@@ -639,6 +647,7 @@
       },
     },
   },
+  ]]
   {
     name="MineOS/Applications/Control2",
     url="MrRagGame/MineOS/master/Applications/Control2/Control2.lua",
@@ -657,6 +666,7 @@
       },
     },
   },
+  ]]
   {
     name="MineOS/Applications/Weather",
     url="MrRagGame/MineOS/master/Applications/Weather/Weather.lua",
@@ -705,6 +715,7 @@
     createShortcut="desktop",
     version=1.11,
   },
+  --[[
   {
     name="MineOS/Applications/FlappyBird",
     url="MrRagGame/MineOS/master/Applications/FlappyBird/FlappyBird.lua",
@@ -720,6 +731,7 @@
       },
     },
   },
+  ]]
   {
     name="MineOS/Applications/RayWalk",
     url="MrRagGame/MineOS/master/Applications/RayWalk/RayWalk.lua",
@@ -826,6 +838,7 @@
       },
     },
   },
+  --[[
   {
     name="MineOS/Applications/GuessWord",
     url="MrRagGame/MineOS/master/Applications/GuessWord/GuessWord.lua",
@@ -835,6 +848,7 @@
     createShortcut="desktop",
     version=1.0,
   },
+  ]]
   {
     name="MineOS/Applications/Calendar",
     url="MrRagGame/MineOS/master/Applications/Calendar/Calendar.lua",
@@ -852,6 +866,7 @@
     createShortcut="desktop",
     version=1.08,
   },
+  --[[
   {
     name="MineOS/Applications/Palette",
     url="MrRagGame/MineOS/master/Applications/Palette/Palette.lua",
@@ -878,6 +893,7 @@
       },
     },
   },
+  ]]
   {
     name="MineOS/Applications/RunningString",
     url="MrRagGame/MineOS/master/Applications/RunningString/RunningString.lua",
@@ -887,6 +903,7 @@
     createShortcut="desktop",
     version=1.01,
   },
+  --[[
   {
     name="MineOS/Applications/Graph",
     url="MrRagGame/MineOS/master/Applications/Graph/Graph.lua",
@@ -913,6 +930,7 @@
     createShortcut="desktop",
     version=1.02,
   },
+  ]]
   {
     name="MineOS/Applications/FuckTheRain",
     url="MrRagGame/MineOS/master/Applications/FuckTheRain/FuckTheRain.lua",
@@ -931,6 +949,7 @@
     createShortcut="desktop",
     version=1.0,
   },
+  --[[
   {
     name="MineOS/Applications/MineSweeper",
     url="MrRagGame/MineOS/master/Applications/MineSweeper/MineSweeper.lua",
@@ -958,6 +977,7 @@
     createShortcut="desktop",
     version=1.0,
   },
+  ]]
   {
     name="MineOS/Applications/Photoshop",
     url="MrRagGame/MineOS/master/Applications/Photoshop/Photoshop.lua",
@@ -994,16 +1014,16 @@
     createShortcut="desktop",
     version=1.02,
   },
-  -- {
-  --   name="MineOS/Applications/Finder",
-  --   url="MrRagGame/MineOS/master/Applications/Finder/Finder.lua",
-  --   about="MrRagGame/MineOS/master/Applications/Finder/About/",
-  --   type="Application",
-  --   icon="MrRagGame/MineOS/master/Applications/Finder/Icon.pic",
-  --   createShortcut="dock",
-  --   forceDownload=true,
-  --   version=1.12,
-  -- },
+  {
+	name="MineOS/Applications/Finder",
+	url="MrRagGame/MineOS/master/Applications/Finder/Finder.lua",
+	about="MrRagGame/MineOS/master/Applications/Finder/About/",
+	type="Application",
+	icon="MrRagGame/MineOS/master/Applications/Finder/Icon.pic",
+	createShortcut="dock",
+	forceDownload=true,
+	version=1.12,
+  },
   {
     name="MineOS/Applications/AppMarket",
     url="MrRagGame/MineOS/master/Applications/AppMarket/AppMarket.lua",
@@ -1024,6 +1044,7 @@
       },
     },
   },
+  --[[
   {
     name="MineOS/Applications/CodeDoor",
     url="MrRagGame/MineOS/master/Applications/CodeDoor/CodeDoor.lua",
@@ -1051,6 +1072,7 @@
     createShortcut="desktop",
     version=1.01,
   },
+  ]]
   {
     name="MineOS/Applications/HEX",
     url="MrRagGame/MineOS/master/Applications/HEX/HEX.lua",
@@ -1060,6 +1082,7 @@
     createShortcut="desktop",
     version=1.02,
   },
+  --[[
   {
     name="MineOS/Applications/ChristmasTree",
     url="MrRagGame/MineOS/master/Applications/ChristmasTree/ChristmasTree.lua",
@@ -1128,6 +1151,7 @@
       },
     },
   },
+  ]]
   {
     name="MineOS/Applications/HoloEdit",
     url="MrRagGame/MineOS/master/Applications/HoloEdit/HoloEdit.lua",
