@@ -1191,7 +1191,7 @@
 	type="Application",
 	icon="MrRagGame/MineOS/master/Applications/Robot/Robot.pic",
 	createShortcut="desktop",
-	version=1.0,
+	version=1.1,
 	resources={
 	  {
         name="Robot.pic",
