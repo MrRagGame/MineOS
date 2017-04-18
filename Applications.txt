@@ -253,6 +253,14 @@
 
   ----------------------------------------------------- Библиотеки --------------------------------------------------------------------------
 
+--[[
+  {
+    name="lib/.lua",
+    url="MrRagGame/MineOS/master/lib/.lua",
+    type="Library",
+    version=0.01,
+  },
+  ]]
   {
     name="MineOS/System/OS/EFI.lua",
     url="MrRagGame/MineOS/master/MineOS/EFI.lua",
@@ -263,6 +271,12 @@
   {
     name="lib/archive.lua",
     url="MrRagGame/MineOS/master/lib/archive.lua",
+    type="Library",
+    version=1.0,
+  },
+  {
+    name="lib/files.lua",
+    url="MrRagGame/MineOS/master/lib/files.lua",
     type="Library",
     version=1.0,
   },
