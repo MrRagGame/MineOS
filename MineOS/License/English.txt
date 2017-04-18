@@ -1,0 +1,16 @@
+Carefully read the terms of this license agreement
+before installing this operating system.
+
+By clicking "Accept", you agree with the following:
+  ● Some of your personal data (logins, passwords to
+    Pastebin.com or VK.com) can be read by other people and
+    used for personal gain.
+  ● You must not distribute this OS, as well as its
+    individual components
+  ● You accept the fact that the author of this OS
+    is not legally responsible for any physical or
+    mental injury that you may get by using this OS.
+    
+If you disagree with any term above, you must press
+the key combination Ctrl + Alt + C to quit
+Setup program.
