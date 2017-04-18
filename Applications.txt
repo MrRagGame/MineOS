@@ -516,7 +516,7 @@
     about="MrRagGame/MineOS/master/Applications/MineCodeIDE/About/",
     type="Application",
     icon="MrRagGame/MineOS/master/Applications/MineCodeIDE/Icon.pic",
-    createShortcut="dock",
+--	createShortcut="dock",
     forceDownload=true,
     version=1.70,
     resources={
@@ -984,7 +984,7 @@
     about="MrRagGame/MineOS/master/Applications/Photoshop/About/",
     type="Application",
     icon="MrRagGame/MineOS/master/Applications/Photoshop/Icon.pic",
-    createShortcut="dock",
+--    createShortcut="dock",
     forceDownload=true,
     version=1.04,
     resources={
@@ -1184,5 +1184,13 @@
         url="MrRagGame/MineOS/master/Applications/BufferDemo/Wallpaper.pic",
       },
     },
+  },
+  {
+	name="MineOS/Applications/Robot",
+	url="MrRagGame/MineOS/master/Applications/Robot/Robot.lua",
+	type="Application",
+	icon="MrRagGame/MineOS/master/Applications/Robot/Robot.pic",
+	createShortcut="desktop",
+	version=1.0,
   },
 }
