@@ -1192,5 +1192,23 @@
 	icon="MrRagGame/MineOS/master/Applications/Robot/Robot.pic",
 	createShortcut="desktop",
 	version=1.0,
+	resources={
+	  {
+        name="Robot.pic",
+        url="MrRagGame/MineOS/master/Applications/Robot/Robot.pic",
+      },
+	  {
+        name="RobotSide.pic",
+        url="MrRagGame/MineOS/master/Applications/Robot/RobotSide.pic",
+      },
+	  {
+        name="RobotTop.pic",
+        url="MrRagGame/MineOS/master/Applications/Robot/RobotTop.pic",
+      },
+	  {
+        name="Chest.pic",
+        url="MrRagGame/MineOS/master/Applications/Robot/Chest.pic",
+      },
+	},
   },
 }
