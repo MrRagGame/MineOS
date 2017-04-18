@@ -10,78 +10,13 @@
     forceDownload=true,
     version=0.01,
   },
---[[
-  {
-    name="MineOS/Pictures/Raspberry.pic",
-    url="MrRagGame/MineOS/master/MineOS/Wallpapers/Raspberry.pic",
-    type="Wallpaper",
-    version=1.0,
-  },
-  {
-    name="MineOS/Pictures/Nettle.pic",
-    url="MrRagGame/MineOS/master/MineOS/Wallpapers/Nettle.pic",
-    type="Wallpaper",
-    version=1.0,
-  },
-  {
-    name="MineOS/Pictures/Catniss.pic",
-    url="MrRagGame/MineOS/master/MineOS/Wallpapers/Catniss.pic",
-    type="Wallpaper",
-    version=1.0,
-  },
-  {
-    name="MineOS/Pictures/Nocturnal.pic",
-    url="MrRagGame/MineOS/master/MineOS/Wallpapers/Nocturnal.pic",
-    type="Wallpaper",
-    version=1.0,
-  },
-  ]]
   {
     name="MineOS/Pictures/Ciri.pic",
     url="MrRagGame/MineOS/master/MineOS/Wallpapers/Ciri.pic",
     type="Wallpaper",
     version=1.0,
   },
-  --[[
-  {
-    name="MineOS/Pictures/AhsokaTanoHiRes.pic",
-    url="MrRagGame/MineOS/master/MineOS/Wallpapers/AhsokaTanoHiRes.pic",
-    type="Wallpaper",
-    version=1.0,
-  },
-  {
-    name="MineOS/Pictures/Girl.pic",
-    url="MrRagGame/MineOS/master/MineOS/Wallpapers/Girl.pic",
-    type="Wallpaper",
-    version=1.0,
-  },
-  {
-    name="MineOS/Pictures/TemplarAssassin.pic",
-    url="MrRagGame/MineOS/master/MineOS/Wallpapers/TemplarAssassin.pic",
-    type="Wallpaper",
-    version=1.0,
-  },
-  {
-    name="MineOS/Pictures/ChristmasTree.pic",
-    url="MrRagGame/MineOS/master/MineOS/Wallpapers/ChristmasTree.pic",
-    type="Wallpaper",
-    version=1.0,
-  },
-  {
-    name="MineOS/System/OS/Languages/Russian.lang",
-    url="MrRagGame/MineOS/master/MineOS/Languages/Russian.lang",
-    type="Script",
-    forceDownload=true,
-    version=1.19,
-  },
-  {
-    name="MineOS/System/OS/Languages/English.lang",
-    url="MrRagGame/MineOS/master/MineOS/Languages/English.lang",
-    type="Script",
-    forceDownload=true,
-    version=1.20,
-  },
-  ]]
+
 
   ----------------------------------------------------- Системные иконки --------------------------------------------------------------------------
   {
@@ -493,22 +428,7 @@
     forceDownload=true,
     version=1.00,
   },
-  --[[
-  {
-    name="MineOS/System/OS/Screensavers/Mandala.lua",
-    url="MrRagGame/MineOS/master/MineOS/Screensavers/Mandala.lua",
-    type="Script",
-    forceDownload=true,
-    version=1.00,
-  },
-  {
-    name="MineOS/System/OS/Screensavers/Clock.lua",
-    url="MrRagGame/MineOS/master/MineOS/Screensavers/Clock.lua",
-    type="Script",
-    forceDownload=true,
-    version=1.00,
-  },
-  ]]
+ 
   ----------------------------------------------------- Приложения --------------------------------------------------------------------------
   {
     name="MineOS/Applications/MineCode IDE",
@@ -530,32 +450,7 @@
       },
     }
   },
-  --[[
-  {
-    name="MineOS/Applications/3DTest",
-    url="MrRagGame/MineOS/master/Applications/3DTest/3DTest.lua",
-    about="MrRagGame/MineOS/master/Applications/3DTest/About/",
-    type="Application",
-    icon="MrRagGame/MineOS/master/Applications/3DTest/Icon.pic",
-    createShortcut="desktop",
-    forceDownload=true,
-    version=1.16,
-  },
-  {
-    name="MineOS/Applications/GeoScan2",
-    url="MrRagGame/MineOS/master/Applications/GeoScan2/GeoScan2.lua",
-    type="Application",
-    icon="MrRagGame/MineOS/master/Applications/GeoScan2/Icon.pic",
-    createShortcut="desktop",
-    version=1.05,
-    resources={
-      {
-        name="Earth.pic",
-        url="MrRagGame/MineOS/master/Applications/GeoScan2/Earth.pic",
-      }
-    },
-  },
-  ]]
+ 
   {
     name="MineOS/Applications/SmartHouse",
     url="MrRagGame/MineOS/master/Applications/SmartHouse/SmartHouse.lua",
@@ -632,23 +527,7 @@
       },
     },
   },
-  --[[
-  {
-    name="MineOS/Applications/VK",
-    url="MrRagGame/MineOS/master/Applications/VK/VK.lua",
-    about="MrRagGame/MineOS/master/Applications/VK/About/",
-    type="Application",
-    icon="MrRagGame/MineOS/master/Applications/VK/Icon.pic",
-    createShortcut="desktop",
-    version=1.26,
-    resources={
-      {
-        name="VKLogo.pic",
-        url="MrRagGame/MineOS/master/Applications/VK/VKLogo.pic",
-      },
-    },
-  },
-  ]]
+ 
   {
     name="MineOS/Applications/Control2",
     url="MrRagGame/MineOS/master/Applications/Control2/Control2.lua",
@@ -716,23 +595,7 @@
     createShortcut="desktop",
     version=1.11,
   },
-  --[[
-  {
-    name="MineOS/Applications/FlappyBird",
-    url="MrRagGame/MineOS/master/Applications/FlappyBird/FlappyBird.lua",
-    about="MrRagGame/MineOS/master/Applications/FlappyBird/About/",
-    type="Application",
-    icon="MrRagGame/MineOS/master/Applications/FlappyBird/Icon.pic",
-    createShortcut="desktop",
-    version=1.11,
-    resources={
-      {
-        name="Flappy.pic",
-        url="MrRagGame/MineOS/master/Applications/FlappyBird/Flappy.pic",
-      },
-    },
-  },
-  ]]
+
   {
     name="MineOS/Applications/RayWalk",
     url="MrRagGame/MineOS/master/Applications/RayWalk/RayWalk.lua",
@@ -839,17 +702,7 @@
       },
     },
   },
-  --[[
-  {
-    name="MineOS/Applications/GuessWord",
-    url="MrRagGame/MineOS/master/Applications/GuessWord/GuessWord.lua",
-    about="MrRagGame/MineOS/master/Applications/GuessWord/About/",
-    type="Application",
-    icon="MrRagGame/MineOS/master/Applications/GuessWord/Icon.pic",
-    createShortcut="desktop",
-    version=1.0,
-  },
-  ]]
+
   {
     name="MineOS/Applications/Calendar",
     url="MrRagGame/MineOS/master/Applications/Calendar/Calendar.lua",
@@ -867,34 +720,7 @@
     createShortcut="desktop",
     version=1.08,
   },
-  --[[
-  {
-    name="MineOS/Applications/Palette",
-    url="MrRagGame/MineOS/master/Applications/Palette/Palette.lua",
-    type="Application",
-    icon="MrRagGame/MineOS/master/Applications/Palette/Icon.pic",
-    createShortcut="desktop",
-    version=1.02,
-  },
-  {
-    name="MineOS/Applications/Stargate",
-    url="MrRagGame/MineOS/master/Applications/Stargate/Stargate.lua",
-    type="Application",
-    icon="MrRagGame/MineOS/master/Applications/Stargate/Icon.pic",
-    createShortcut="desktop",
-    version=1.05,
-    resources={
-      {
-        name="Gate.pic",
-        url="MrRagGame/MineOS/master/Applications/Stargate/Gate.pic",
-      },
-      {
-        name="GateCore.pic",
-        url="MrRagGame/MineOS/master/Applications/Stargate/GateCore.pic",
-      },
-    },
-  },
-  ]]
+
   {
     name="MineOS/Applications/RunningString",
     url="MrRagGame/MineOS/master/Applications/RunningString/RunningString.lua",
@@ -904,34 +730,6 @@
     createShortcut="desktop",
     version=1.01,
   },
-  --[[
-  {
-    name="MineOS/Applications/Graph",
-    url="MrRagGame/MineOS/master/Applications/Graph/Graph.lua",
-    type="Application",
-    icon="MrRagGame/MineOS/master/Applications/Graph/Icon.pic",
-    createShortcut="desktop",
-    version=1.02,
-  },
-  {
-    name="MineOS/Applications/Battleship",
-    url="MrRagGame/MineOS/master/Applications/Battleship/Battleship.lua",
-    about="MrRagGame/MineOS/master/Applications/Battleship/About/",
-    type="Application",
-    icon="MrRagGame/MineOS/master/Applications/Battleship/Icon.pic",
-    createShortcut="desktop",
-    version=1.0,
-  },
-  {
-    name="MineOS/Applications/Radio",
-    url="MrRagGame/MineOS/master/Applications/Radio/Radio.lua",
-    about="MrRagGame/MineOS/master/Applications/Radio/About/",
-    type="Application",
-    icon="MrRagGame/MineOS/master/Applications/Radio/Icon.pic",
-    createShortcut="desktop",
-    version=1.02,
-  },
-  ]]
   {
     name="MineOS/Applications/FuckTheRain",
     url="MrRagGame/MineOS/master/Applications/FuckTheRain/FuckTheRain.lua",
@@ -950,35 +748,7 @@
     createShortcut="desktop",
     version=1.0,
   },
-  --[[
-  {
-    name="MineOS/Applications/MineSweeper",
-    url="MrRagGame/MineOS/master/Applications/MineSweeper/MineSweeper.lua",
-    about="MrRagGame/MineOS/master/Applications/MineSweeper/About/",
-    type="Application",
-    icon="MrRagGame/MineOS/master/Applications/MineSweeper/Icon.pic",
-    createShortcut="desktop",
-    version=1.0,
-  },
-  {
-    name="MineOS/Applications/DanceFloor",
-    url="MrRagGame/MineOS/master/Applications/DanceFloor/DanceFloor.lua",
-    about="MrRagGame/MineOS/master/Applications/DanceFloor/About/",
-    type="Application",
-    icon="MrRagGame/MineOS/master/Applications/DanceFloor/Icon.pic",
-    createShortcut="desktop",
-    version=1.0,
-  },
-  {
-    name="MineOS/Applications/QuantumCube",
-    url="MrRagGame/MineOS/master/Applications/QuantumCube/QuantumCube.lua",
-    about="MrRagGame/MineOS/master/Applications/QuantumCube/About/",
-    type="Application",
-    icon="MrRagGame/MineOS/master/Applications/QuantumCube/Icon.pic",
-    createShortcut="desktop",
-    version=1.0,
-  },
-  ]]
+
   {
     name="MineOS/Applications/Photoshop",
     url="MrRagGame/MineOS/master/Applications/Photoshop/Photoshop.lua",
@@ -1045,35 +815,7 @@
       },
     },
   },
-  --[[
-  {
-    name="MineOS/Applications/CodeDoor",
-    url="MrRagGame/MineOS/master/Applications/CodeDoor/CodeDoor.lua",
-    about="MrRagGame/MineOS/master/Applications/CodeDoor/About/",
-    type="Application",
-    icon="MrRagGame/MineOS/master/Applications/CodeDoor/Icon.pic",
-    createShortcut="desktop",
-    version=1.0,
-  },
-  {
-    name="MineOS/Applications/Keyboard",
-    url="MrRagGame/MineOS/master/Applications/Keyboard/Keyboard.lua",
-    about="MrRagGame/MineOS/master/Applications/Keyboard/About/",
-    type="Application",
-    icon="MrRagGame/MineOS/master/Applications/Keyboard/Icon.pic",
-    createShortcut="desktop",
-    version=1.0,
-  },
-  {
-    name="MineOS/Applications/Camera",
-    url="MrRagGame/MineOS/master/Applications/Camera/Camera.lua",
-    about="MrRagGame/MineOS/master/Applications/Camera/About/",
-    type="Application",
-    icon="MrRagGame/MineOS/master/Applications/Camera/Icon.pic",
-    createShortcut="desktop",
-    version=1.01,
-  },
-  ]]
+
   {
     name="MineOS/Applications/HEX",
     url="MrRagGame/MineOS/master/Applications/HEX/HEX.lua",
@@ -1083,76 +825,7 @@
     createShortcut="desktop",
     version=1.02,
   },
-  --[[
-  {
-    name="MineOS/Applications/ChristmasTree",
-    url="MrRagGame/MineOS/master/Applications/ChristmasTree/ChristmasTree.lua",
-    about="MrRagGame/MineOS/master/Applications/ChristmasTree/About/",
-    type="Application",
-    createShortcut="desktop",
-    icon="MrRagGame/MineOS/master/Applications/ChristmasTree/Icon.pic",
-    version=1.0,
-  },
-  -- Приложение InfoPanel
-  {
-    name="MineOS/Applications/InfoPanel",
-    url="MrRagGame/MineOS/master/Applications/InfoPanel/InfoPanel.lua",
-    type="Application",
-    about="MrRagGame/MineOS/master/Applications/InfoPanel/About/",
-    icon="MrRagGame/MineOS/master/Applications/InfoPanel/Icon.pic",
-    createShortcut="desktop",
-    version=1.01,
-    resources = {
-      {
-        name="Pages/Rules.txt",
-        url="MrRagGame/MineOS/master/Applications/InfoPanel/Rules.txt",
-      },
-      {
-        name="Pages/Main.txt",
-        url="MrRagGame/MineOS/master/Applications/InfoPanel/Main.txt",
-      },
-      {
-        name="Pages/SSPI.txt",
-        url="MrRagGame/MineOS/master/Applications/InfoPanel/SSPI.txt",
-      },
-      {
-        name="Pages/Claims.txt",
-        url="MrRagGame/MineOS/master/Applications/InfoPanel/Claims.txt",
-      },
-    }
-  },
-  --Приложение Чат
-  {
-    name="MineOS/Applications/Chat",
-    url="MrRagGame/MineOS/master/Applications/Chat/Chat.lua",
-    about="MrRagGame/MineOS/master/Applications/Chat/About/",
-    type="Application",
-    icon="MrRagGame/MineOS/master/Applications/Chat/Icon.pic",
-    createShortcut="desktop",
-    version=1.02,
-    resources = {
-      {
-        name="Avatars/MyAvatar.pic",
-        url="MrRagGame/MineOS/master/Applications/Chat/MyAvatar.pic",
-      }
-    },
-  },
-  {
-    name="MineOS/Applications/TurretControl",
-    url="MrRagGame/MineOS/master/Applications/TurretControl/TurretControl.lua",
-    type="Application",
-    about="MrRagGame/MineOS/master/Applications/TurretControl/About/",
-    icon="MrRagGame/MineOS/master/Applications/TurretControl/Icon.pic",
-    createShortcut="desktop",
-    version=1.01,
-    resources={
-      {
-        name="Turret.pic",
-        url="MrRagGame/MineOS/master/Applications/TurretControl/Turret.pic",
-      },
-    },
-  },
-  ]]
+ 
   {
     name="MineOS/Applications/HoloEdit",
     url="MrRagGame/MineOS/master/Applications/HoloEdit/HoloEdit.lua",
